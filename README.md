@@ -5,3 +5,12 @@ La primera función, llamada "setMessage", se encarga de obtener la cantidad de 
 
 La segunda función, llamada "getMessage", realiza la conversión de dólares a pesos mexicanos. Esta función toma la cantidad de dólares ingresada previamente por el usuario y la multiplica por el tipo de cambio (previamente establecido). El resultado de esta multiplicación es el equivalente en pesos mexicanos.
 
+# Running the project locally
+If you want to test your project locally, you can use the following commands:
+```
+# Starts the replica, running in the background
+dfx start --background
+
+# Deploys your canisters to the replica and generates your candid interface
+dfx deploy
+```
