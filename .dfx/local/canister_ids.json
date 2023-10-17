@@ -1,0 +1,23 @@
+{
+  "Convert_usd_to_mxn_backend": {
+    "local": "asrmz-lmaaa-aaaaa-qaaeq-cai"
+  },
+  "Convert_usd_to_mxn_frontend": {
+    "local": "a3shf-5eaaa-aaaaa-qaafa-cai"
+  },
+  "__Candid_UI": {
+    "local": "aovwi-4maaa-aaaaa-qaagq-cai"
+  },
+  "azle_hello_world": {
+    "local": "a4tbr-q4aaa-aaaaa-qaafq-cai"
+  },
+  "azle_hello_world_backend": {
+    "local": "ajuq4-ruaaa-aaaaa-qaaga-cai"
+  },
+  "azle_hello_world_frontend": {
+    "local": "aax3a-h4aaa-aaaaa-qaahq-cai"
+  },
+  "www": {
+    "local": "ahw5u-keaaa-aaaaa-qaaha-cai"
+  }
+}

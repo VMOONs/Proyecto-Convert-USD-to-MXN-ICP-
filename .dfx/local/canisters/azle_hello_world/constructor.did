@@ -1,0 +1,4 @@
+service: () -> {
+    getMessage: () -> (float64) query;
+    setMessage: (float64) -> ();
+}
